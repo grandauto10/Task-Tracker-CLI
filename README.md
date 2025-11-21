@@ -33,8 +33,9 @@ A simple command-line Task Tracker application that allows you to add, update, d
 ## 📁 Project Structure
 
 ## 🔗 Project URL
-You can find the full project repository here:
-https://github.com/grandauto10/Task-Tracker-CLI
+This project follows the Task Tracker roadmap on Roadmap.sh:
+[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+
 
 
 
