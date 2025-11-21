@@ -6,18 +6,18 @@ A simple command-line Task Tracker application that allows you to add, update, d
 
 ## 📌 Features
 
-- Add new tasks  
-- List all tasks  
+- Add new tasks
+- List all tasks
 - List tasks by status:
   - Done
   - Not done (todo)
   - In progress
-- Update a task description  
-- Delete a task  
-- Mark a task as done or in progress  
-- Stores data in a JSON file  
-- JSON file auto-creates if it doesn't exist  
-- Works with positional command-line arguments  
+- Update a task description
+- Delete a task
+- Mark a task as done or in progress
+- Stores data in a JSON file
+- JSON file auto-creates if it doesn't exist
+- Works with positional command-line arguments
 - Uses only native Python modules (no external libraries)
 
 ---
@@ -31,4 +31,10 @@ A simple command-line Task Tracker application that allows you to add, update, d
 ---
 
 ## 📁 Project Structure
+
+## 🔗 Project URL
+You can find the full project repository here:
+https://github.com/grandauto10/Task-Tracker-CLI
+
+
 
